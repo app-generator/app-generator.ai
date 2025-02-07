@@ -3,4 +3,4 @@
 ## [0.0.1] 2025-02-07
 ### Changes
 
-- START_VERSION
+- INITIAL_VERSION

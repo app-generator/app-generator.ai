@@ -17,7 +17,7 @@ export default function Page() {
             Buy This domain
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            Service/Domain for sale. 
+            Service/Domain for sale
             <br />
             For more information, send an email to <strong>support@appseed.us</strong>
           </p>

@@ -17,7 +17,7 @@ export default function Page() {
             Buy This domain
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            Service/Domain for sale
+            <span class="underline"><a target="_blank" href="https://www.namecheap.com/domains/registration/results/?domain=app-generator.ai">Domain for sale</a></span> - managed by NameCheap.
             <br />
             For more information, send an email to <strong>support@appseed.us</strong>
           </p>

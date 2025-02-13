@@ -1,16 +1,14 @@
-![tailwind-nextjs-banner](/public/static/images/twitter-card.png)
+# [AI Apps Generator](https://www.app-generator.ai/)
 
-# Tailwind Nextjs Starter Blog
+Learn how to build apps and services using AI and modern technologies - Open-Source Platform.
+
+> [Domain for sale](https://www.namecheap.com/domains/registration/results/?domain=app-generator.ai) - managed by NameCheap. For more information, send an email to **support@appseed.us**.
+
+<br />
+
+## Codebase Features
 
 > Forked from the amazing https://github.com/timlrx/tailwind-nextjs-starter-blog
-
-## [Author](https://github.com/timlrx) Motivation
-
-I wanted to port my existing blog to Nextjs and Tailwind CSS but there was no easy out of the box template to use so I decided to create one. Design is adapted from [Tailwindlabs blog](https://github.com/tailwindlabs/blog.tailwindcss.com).
-
-I wanted it to be nearly as feature-rich as popular blogging templates like [beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) and [Hugo Academic](https://github.com/wowchemy/wowchemy-hugo-modules) but with the best of React's ecosystem and current web development's best practices.
-
-## Features
 
 - Next.js with Typescript
 - [Contentlayer](https://www.contentlayer.dev/) to manage content logic
@@ -205,16 +203,12 @@ Consider removing the following features that cannot be used in a static build:
 1. Comment out `headers()` from `next.config.js`.
 2. Remove `api` folder and components which call the server-side function such as the Newsletter component. Not technically required and the site will build successfully, but the APIs cannot be used as they are server-side functions.
 
-## Frequently Asked Questions
-
-- [How can I add a custom MDX component?](/faq/custom-mdx-component.md)
-- [How can I customize the `kbar` search?](/faq/customize-kbar-search.md)
-- [Deploy with docker](/faq/deploy-with-docker.md)
-
-## Support
-
-Using the template? Support this effort by giving a star on GitHub, sharing your own blog and giving a shoutout on Twitter or becoming a project [sponsor](https://github.com/sponsors/timlrx).
 
 ## Licence
 
 @MIT
+
+<br />
+
+---
+[AI Apps Generator](https://www.app-generator.ai/) - Learn how to build apps and services using AI and modern technologies - Open-Source Platform.

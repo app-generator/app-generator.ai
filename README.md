@@ -2,7 +2,7 @@
 
 Learn how to build apps and services using AI and modern technologies - Open-Source Platform.
 
-> [Domain for sale](https://www.namecheap.com/domains/registration/results/?domain=app-generator.ai) - managed by NameCheap. For more information, send an email to **support@appseed.us**.
+> [Domain for sale](https://www.namecheap.com/domains/registration/results/?domain=app-generator.ai) - managed by NameCheap. For more information, send an email to **aigenerator-project@gmail.com**.
 
 <br />
 

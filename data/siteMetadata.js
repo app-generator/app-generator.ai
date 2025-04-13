@@ -10,11 +10,9 @@ const siteMetadata = {
   siteRepo: 'https://github.com/app-generator/app-generator.ai',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
-  mastodon: 'https://mastodon.social/@sm0ke_dev',
-  email: 'support@appseed.us',
-  github: 'https://github.com/app-generator/app-generator.ai',
+  email: 'aigenerator-project@gmail.com',
+  medium: 'https://medium.com/@ai-app-generator',
   x: 'https://x.com/Sm0keDev',
-  linkedin: 'https://www.linkedin.com/in/adi-chirilov/',
   locale: 'en-US',
   // set to true if you want a navbar fixed to the top
   stickyNav: false,

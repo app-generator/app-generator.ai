@@ -25,7 +25,7 @@ export default function Footer() {
           <div>{`© ${new Date().getFullYear()}`}</div>
         </div>
         <div className="mb-8 text-sm text-gray-500 dark:text-gray-400">
-          <Link href="/">Learn to build apps and services using AI</Link>
+          <Link href="https://app-generator.dev/">App-Generator - Generate Apps in no-time</Link>
         </div>
       </div>
     </footer>
